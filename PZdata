@@ -114,6 +114,7 @@ static=UK, server-tag-regex=(英)|(UK), img-url=https://raw.githubusercontent.co
 static=KR, server-tag-regex=(韩)|(KR), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
 
 static=Other, server-tag-regex=(菲律宾)|(荷兰)|(俄罗斯)|(德国)|(印度)|(土耳其)|(加拿大), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Loop.png
+
 static=Telegram, HK, SG, US, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png
 
 static=Spotify, PROXY, HK, TW, JP, SG, US, UK, KR, Other, Low, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
