@@ -1,13 +1,7 @@
-# DivineEngine Quantumult 配置示例
-
-# 以 ";" 或 "#" 或 "//" 开头的行为注释行。
-
-# 最新完整的示例需查看 Quantumult X 里「配置文件」中的「示例」
-
+#20220901
 # 完整配置教程：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
 
-# 你可以从该 URL 下载这个配置文件: https://raw.githubusercontent.com/TributePaulWalker/Profiles/main/QuantumultX/QuantumultX%20Pro.conf 
-# Update-2022.8.28.14.15
+# 你可以从该 URL 下载这个配置文件: https://raw.githubusercontent.com/Jasonshengkachun/Qx-PZ/main/PZdata
 
 [general]
 # Quantumult X 会对指定的网址进行相应测试，以确认节点的可用性
